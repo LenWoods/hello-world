@@ -1,2 +1,3 @@
 # hello-world
-Short GitHub Guide for learing git
+POOF GitHub Guide learing git
+Well this is interesting.
